@@ -1,5 +1,5 @@
 import profile from '../assets/Profile.png';
-import cv from '../assets/AdityaChabbaCV.pdf';     // <- NEW
+import cv from '../assets/AdityaChabbaCv.pdf';     // <- NEW
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
 export default function Hero() {
