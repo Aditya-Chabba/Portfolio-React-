@@ -1,4 +1,4 @@
-import profile from '../assets/profile.png';
+import profile from '../assets/Profile.png';
 import cv from '../assets/AdityaChabbaCV.pdf';     // <- NEW
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
