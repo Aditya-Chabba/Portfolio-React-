@@ -27,7 +27,8 @@ const skillGroups = [
   {
     title: 'Services &\nSoftwares',
     items: [
-      { name: 'Data Claening', level: 'Intermediate' },
+      { name: 'Data Cleaning', level: 'Intermediate' },
+      { name: 'Data Visualization', level: 'Basic' },
       { name: 'Exploratory Data Analysis', level: 'Basic' },
       { name: 'Frontend Development', level: 'Intermediate' },
       { name: 'VS Code', level:'Intermediate'},
