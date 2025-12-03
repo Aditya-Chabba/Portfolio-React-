@@ -34,7 +34,6 @@ const skillGroups = [
       { name: 'VS Code', level:'Intermediate'},
       { name: 'Virtual Box', level:'Basic'},
       { name: 'Anaconda Navigator', level:'Jupyter Notebook'},
-      { name: 'UI/UX', level: 'Figma' },
     ]
   },
 ];
