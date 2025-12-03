@@ -20,8 +20,10 @@ export default function About() {
             <article className="aboutCard">
               <FaAward className="icon" />
               <h3>Experience</h3>
-              <p>Fresher</p>
-              <p>Masai FSD (Training)</p>
+              <p>Kalvium (July 2025 | Current)</p>
+              <p>Academic Mentor</p>
+              <p>Masai (Training)</p>
+              <p>Software Development (Web Engineer)</p>
             </article>
 
             <article className="aboutCard">
