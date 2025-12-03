@@ -15,7 +15,7 @@ export default function Hero() {
           <h1 className="name">Aditya Chabba</h1>
 
           <p className="role">
-            Data Analyst<br />Frontend Developer
+            Data Analyst<br />Frontend Web Engineer 
           </p>
 
           <div className="hero-buttons">
